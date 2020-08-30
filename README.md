@@ -1,1 +1,1 @@
-# sbpp-ruby
+# Smalltalk best practices patterns in Ruby
