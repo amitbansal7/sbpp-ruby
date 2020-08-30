@@ -1,1 +1,1 @@
-# Smalltalk best practices patterns in Ruby
+# Smalltalk Best Practice Patterns in Ruby
