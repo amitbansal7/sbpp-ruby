@@ -8,6 +8,7 @@ end
 
 # Same as Date.parse
 puts Date.from_string('12/01/2020')
+
 class Set
   def self.from_array(arr)
     arr.to_set
