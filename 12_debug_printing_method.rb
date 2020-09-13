@@ -1,3 +1,4 @@
+# Override printOn: to provide information about an object’s structure to the programmer.
 class Association
   attr_accessor :key, :value
 

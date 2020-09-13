@@ -1,3 +1,5 @@
+# Provide methods that create well-formed instances. Pass all required parameters to them.
+
 class Point
   attr_accessor :x, :y
   def self.new_point(r, theta)

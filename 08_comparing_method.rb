@@ -1,3 +1,5 @@
+# Implement “<=” to return true if the receiver should be ordered
+# before the argument.
 class Event
   include Comparable
 

@@ -1,3 +1,5 @@
+# Create a single method that sets all the variables. Preface its name with “set”, then the
+# names of the variables.
 class Point
   attr_accessor :x, :y
 

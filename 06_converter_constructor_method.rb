@@ -1,3 +1,4 @@
+# Make a Constructor Method that takes the object to be converted as an argument
 require 'date'
 require 'set'
 class Date
