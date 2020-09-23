@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Code a method that takes a Block as an argument. Name the
 # method by appending “During: aBlock” to the name of the first
 # method that needs to be invoked. In the body of the Execute

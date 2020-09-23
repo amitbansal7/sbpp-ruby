@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Create a class named after the method. Give it an instance variable for the receiver of the original method, each argument, and
 # each temporary variable. Give it a Constructor Method that takes
 # the original receiver and the method arguments. Give it one

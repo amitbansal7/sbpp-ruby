@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Provide a method that returns a Boolean. Name it by prefacing
 # the property name with a form of “be”—is, was, will, etc.
 class Switch

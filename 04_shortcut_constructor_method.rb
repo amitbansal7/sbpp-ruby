@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Represent object creation as a message to one of the arguments
 # to the Constructor Method. Add no more than three of these
 # Shortcut Constructor Methods per system you develop.

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Send several messages to “self.”
 
 class Controller

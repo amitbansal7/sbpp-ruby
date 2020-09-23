@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Send a message to “self.” Name the message so it communicates
 # what is to be done rather than how it is to be done. Code a simple method for the message
 
@@ -9,7 +11,7 @@ end
 
 class Collection
   def empty?
-    size == 0
+    size.zero?
   end
 end
 

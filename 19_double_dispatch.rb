@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Send a message to the argument. Append the class name of the
 # receiver to the selector. Pass the receiver as an argument.
 

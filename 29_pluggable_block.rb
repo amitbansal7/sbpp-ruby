@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # How do you code complex behavior that is not quire worth its own class?
 
 # Add an instance variable to store a block. Append 'Block' to the Role suggesting

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Code a method on the parameter. Derive its name from the original message. Take the original receiver as a parameter to the
 # new method. Implement the method by sending the original message to the original receiver.
 class Printer

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Convert from one object to another rather than overwhelm any
 # one object’s protocol.
 

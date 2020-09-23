@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class ListPane
   def initialize
     @print_message = :print_string

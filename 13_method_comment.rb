@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Communicate important information that is not obvious from the
 # code in a comment at the beginning of the method.
 class Bin

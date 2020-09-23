@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Send a named message and let the receiving object decide
 # what to do with it.
 # Send a message to one of several different kinds of objects, each

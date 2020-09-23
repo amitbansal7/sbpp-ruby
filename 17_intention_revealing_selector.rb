@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Array
   def linear_search_for; end
 end

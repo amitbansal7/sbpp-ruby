@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class PostScriptShapePrinter
   def display(shape)
     (1..shape.size).each do |idx|

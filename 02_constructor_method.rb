@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Provide methods that create well-formed instances. Pass all required parameters to them.
 
 class Point

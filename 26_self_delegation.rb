@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Pass the delegating object (ie. self) in an aditional parameter called for:
 
 # Dictionary using HashTable

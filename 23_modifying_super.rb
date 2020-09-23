@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class IntegerAdder
   def initialize
     @sum = default_sum

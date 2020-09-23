@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Override the method and send a message to “super” in the overriding method
 
 class Super

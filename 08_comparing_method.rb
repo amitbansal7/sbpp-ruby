@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Implement “<=” to return true if the receiver should be ordered
 # before the argument.
 class Event
