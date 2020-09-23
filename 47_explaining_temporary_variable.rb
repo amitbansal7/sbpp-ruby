@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # How do you simplify a complex expression with a method?
 
 # Take a subexpression out of the complex expression.
